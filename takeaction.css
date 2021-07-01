@@ -1,0 +1,63 @@
+
+* { /* Reset the space of the webpage */
+   margin: 1px;
+   padding: 1x;
+}
+
+body {
+ background-color: rgb(255, 252, 224); 
+}
+
+h1 {
+  text-align: center;
+  color: rgb(23, 0, 128);
+  padding: 7px;
+}
+
+
+
+#nav {
+
+  font-family: fantasy;
+  text-align: center;
+  padding: 7px;
+}
+
+ul {
+  list-style-type:none;
+  background-color:rgb(252, 234, 203);
+  overflow:hidden;
+}
+
+ul li {
+  display: inline;
+}
+
+li a {
+  font-size: .5cm;
+
+}
+
+li a:hover {
+  background-color:rgb(255, 245, 227) ;
+}
+
+
+p {
+  padding:7px;
+}
+
+
+#lastPar {
+  padding: 7px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: rgb(252, 234, 203);
+}
+
+
+#takeActionImg {
+  padding:7px;
+  width:50px;
+  height:150px;
+  border:3px double rgb(250,222,170);
+}
